@@ -16,3 +16,6 @@ This is generated in the file [IHO_world_graph_woa3_4c.r](https://github.com/vli
 The pdf version provides a vector output of the graph and maps.
 ![](https://github.com/vlizBE/woa3-4c/blob/master/IHO_world_graph.png)
 
+### The Area map
+
+![](https://github.com/vlizBE/woa3-4c/blob/master/the_area_world_map.png)
