@@ -1,6 +1,6 @@
 [![Funding](https://img.shields.io/static/v1?label=powered+by&message=lifewatch.be&labelColor=1a4e8a&color=f15922)](http://lifewatch.be)
 # woa3-4c
-This is the code and figures for a part of the chapter on benthic invertebrates (Chapter 4C) on benthic invertebrates of the 3nd World Ocean Assessment Report (WOA III).
+This is the code and figures for a part of the chapter on benthic invertebrates (Chapter 4C) of the 3nd World Ocean Assessment Report (WOA III).
 
 This is a collaboration between [MarineRegions](http://www.marineregions.org), [the World Register of Marine Species](http://marinespecies.org) and [OBIS](https://obis.org/):
 
